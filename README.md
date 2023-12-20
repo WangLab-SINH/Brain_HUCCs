@@ -1,5 +1,6 @@
 # Brain_HUCCs
-Preprocessed single-cell sequencing data and associated code for the primary motor cortex (M1) region in Chimpanzees and Macaques.
+
+The initial FASTQ data for this study were obtained from the BICCN dataset, specifically from 'M1/Rhesus/download_urls.txt' and 'M1/Chimpanzee/download_urls.txt.' Subsequently, quantitative counts were generated using Cellranger with the scripts 'M1/Rhesus/1.fasta2counts.sh' and 'M1/Chimpanzee/1.fasta2counts.sh.' You can access the processed data through the following link:
 
 Chimpanzee raw counts: https://drive.google.com/file/d/1jhxAasfyQ6qCfnx0u47zIHgRsDkHK8jh/view?usp=sharing
 
